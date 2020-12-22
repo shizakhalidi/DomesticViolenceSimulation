@@ -11,4 +11,4 @@ small actions can create a severe impact on a couple’s relationship in the lon
 
 View full report here https://github.com/shizakhalidi/dm/blob/main/DomesticViolence.pdf
 
-Try out the model here https://shizakhalidi.github.io/dm/
+Try out the model here https://shizakhalidi.github.io/DomesticViolenceSimulation/
