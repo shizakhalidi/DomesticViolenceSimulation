@@ -8,3 +8,6 @@ of the most predominant social issues. Especially in places like Karachi, people
 socio-economic backgrounds are affected by it. We would like this model to become a basis for
 providing public awareness about the factors that lead to intimate partner violence, and how
 small actions can create a severe impact on a couple’s relationship in the long run.
+
+View full report here https://github.com/shizakhalidi/dm/blob/main/DomesticViolence.pdf
+Try out the model here https://shizakhalidi.github.io/dm/
